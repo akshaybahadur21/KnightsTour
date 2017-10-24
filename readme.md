@@ -12,7 +12,7 @@ The knight's tour problem is the mathematical problem of finding a knight's tour
 
 For more information, [see](https://en.wikipedia.org/wiki/Knight%27s_tour)
 
-<img src="https://github.com/akshaybahadur21/NQueen/blob/master/knightstour.gif">
+<img src="https://github.com/akshaybahadur21/KnightsTour/blob/master/knightstour.gif">
 
 
 ```java
