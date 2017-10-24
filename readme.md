@@ -17,19 +17,20 @@ For more information, [see](https://en.wikipedia.org/wiki/Knight%27s_tour)
 
 ```java
 
-		int xMove[] = {2, 1, -1, -2, -2, -1, 1, 2};
-        int yMove[] = {1, 2, 2, 1, -1, -2, -2, -1};
-		if(solveTourNextMove(0,0,1,sol,xMove,yMove)==1)
+int xMove[] = {2, 1, -1, -2, -2, -1, 1, 2};
+int yMove[] = {1, 2, 2, 1, -1, -2, -2, -1};
+if(solveTourNextMove(0,0,1,sol,xMove,yMove)==1)
+	{
+	System.out.println();
+	for(int i=0;i<n;i++)
+	{
+		for(int j=0;j<n;j++)
 		{
-			System.out.println();
-			for(int i=0;i<n;i++)
-			{
-			for(int j=0;j<n;j++)
-				{
-					System.out.print(sol[i][j]+"\t");
-				}
-			System.out.println();
-			}
+			System.out.print(sol[i][j]+"\t");
+		}
+		System.out.println();
+	}
+	
 ``` 
 
 ### Execution
