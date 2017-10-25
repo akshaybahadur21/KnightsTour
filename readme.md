@@ -1,4 +1,4 @@
-## NQueen Problem
+## Knight's Tour Problem
 This code helps you to understand the Knight's tour problem
 
 
