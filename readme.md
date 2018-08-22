@@ -1,6 +1,8 @@
-## Knight's Tour Problem
+## Knight's Tour [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/KnightsTour/blob/master/LICENSE.txt)  [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)](https://akshaybahadur.com)
 This code helps you to understand the Knight's tour problem
 
+### Sourcerer
+[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/KnightsTour/images/0)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/KnightsTour/links/0)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/KnightsTour/images/1)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/KnightsTour/links/1)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/KnightsTour/images/2)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/KnightsTour/links/2)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/KnightsTour/images/3)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/KnightsTour/links/3)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/KnightsTour/images/4)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/KnightsTour/links/4)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/KnightsTour/images/5)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/KnightsTour/links/5)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/KnightsTour/images/6)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/KnightsTour/links/6)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/KnightsTour/images/7)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/KnightsTour/links/7)
 
 ### Code Requirements
 The example code is in Java ([version 1.8](https://java.com/en/download/) or higher will work). 
